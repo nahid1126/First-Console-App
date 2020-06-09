@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVwD+WOoBt0+SHelWrKB+8/7i1g5TD1i3+xU8v0QT8gkG+n0iZ1IFZfgjimgA2oAi8A+jZh9HaPevIgbt9Fk6Q==",
+  "success": true,
+  "projectFilePath": "/media/nahid/New Volume/FirstConsoleApp/FirstConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/nahid/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

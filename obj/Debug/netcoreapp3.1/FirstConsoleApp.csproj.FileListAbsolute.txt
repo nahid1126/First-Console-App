@@ -1,0 +1,13 @@
+/media/nahid/New Volume/FirstConsoleApp/bin/Debug/netcoreapp3.1/FirstConsoleApp
+/media/nahid/New Volume/FirstConsoleApp/bin/Debug/netcoreapp3.1/FirstConsoleApp.deps.json
+/media/nahid/New Volume/FirstConsoleApp/bin/Debug/netcoreapp3.1/FirstConsoleApp.runtimeconfig.json
+/media/nahid/New Volume/FirstConsoleApp/bin/Debug/netcoreapp3.1/FirstConsoleApp.runtimeconfig.dev.json
+/media/nahid/New Volume/FirstConsoleApp/bin/Debug/netcoreapp3.1/FirstConsoleApp.dll
+/media/nahid/New Volume/FirstConsoleApp/bin/Debug/netcoreapp3.1/FirstConsoleApp.pdb
+/media/nahid/New Volume/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.csprojAssemblyReference.cache
+/media/nahid/New Volume/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.AssemblyInfoInputs.cache
+/media/nahid/New Volume/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.AssemblyInfo.cs
+/media/nahid/New Volume/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.csproj.CoreCompileInputs.cache
+/media/nahid/New Volume/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.dll
+/media/nahid/New Volume/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.pdb
+/media/nahid/New Volume/FirstConsoleApp/obj/Debug/netcoreapp3.1/FirstConsoleApp.genruntimeconfig.cache
